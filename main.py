@@ -1,1 +1,0 @@
-print("Never Give up!")
